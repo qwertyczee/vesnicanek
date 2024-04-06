@@ -1,3 +1,3 @@
 # vesnicanek
 
-hra
+Beta Verze ve vyvoji
